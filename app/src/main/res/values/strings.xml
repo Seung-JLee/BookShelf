@@ -4,9 +4,15 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string-array name="book_titles">
-        <item>The Theory of Everything</item>
-        <item>Hyperspace</item>
-        <item>A Brief History of Time</item>
-        <item>Future Weapons</item>
+        <item>Great Expectations</item>
+        <item>The Island of Doctor Moreau</item>
+        <item>Flatland</item>
+        <item>Tales of Space and Time</item>
+        <item>Through the Looking-Glass</item>
+        <item>Pride and Prejudice</item>
+        <item>Oliver Twist</item>
+        <item>Brave New World</item>
+        <item>A Wrinkle in Time</item>
+        <item>Animal Farm</item>
     </string-array>
 </resources>
